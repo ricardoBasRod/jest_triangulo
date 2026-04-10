@@ -1,0 +1,12 @@
+{
+  "name": "jest_triangulo",
+  "version": "1.0.0",
+  "description": "Clasificación de triángulos con Jest",
+  "main": "triangulos.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
